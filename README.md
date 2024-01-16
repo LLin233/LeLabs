@@ -1,5 +1,5 @@
 # CopyCat
-look it, copy it, make it 
+look at it, learn from it, make it 
 
 ### [Trivial](https://github.com/LLin233/Le-Lib-For-Android)
 
